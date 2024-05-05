@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srivastava829@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gzrget6IN6m4jrXE9YaHqAiyxpC9V2SI/view?usp=sharing](https://drive.google.com/file/d/1gzrget6IN6m4jrXE9YaHqAiyxpC9V2SI/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1gzrget6IN6m4jrXE9YaHqAiyxpC9V2SI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
