@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishabh Srivastava</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working at **Gemini Solutions Pvt Ltd**
+- 🔭 I’m currently working at **Gemini Solutions**
 
-- 💬 Ask me about **DevOps, Linux, Python, Docker, Terraform, ELK, VPN**
+- 💬 Ask me about **DevOps, Linux, Python, AWS, Azure, Docker, Kubernetes, Terraform, ELK**
 
 - 📫 How to reach me **srivastava829@gmail.com**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1gzrget6IN6m4jrXE9YaHqAiyxpC9V2SI/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1_ymcSN84k4bfsFXJMF-m8MQCiM9k2JCx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
